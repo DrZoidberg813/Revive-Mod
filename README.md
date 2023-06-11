@@ -1,6 +1,6 @@
 # Revive mod for Minecraft 1.19.4 (Forge)
 
-[![Revive mod Version](https://img.shields.io/badge/Revive%20mod-0.1-green)](https://github.com/DrZoidberg813/Revive-mod)
+[![Revive mod Version](https://img.shields.io/badge/Revive%20mod-0.2-green)](https://github.com/DrZoidberg813/Revive-mod)
 
 # EN
 Welcome to the Revive Mod's GitHub page. This mod is designed for hardcore multiplayer and is not suitable for single player. 
